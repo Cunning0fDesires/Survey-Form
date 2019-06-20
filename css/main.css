@@ -1,0 +1,15 @@
+#box {
+    background-color: white;
+    margin: 50px;
+    height: 1100px;
+    width: 1220px;
+    border: 15px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+body {
+    background-color: #affeff;
+    text-align: center;
+    font-family: 'Raleway', Helvetica, sans-serif;
+  }
