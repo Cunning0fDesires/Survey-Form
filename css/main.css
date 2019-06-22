@@ -33,7 +33,7 @@ body {
     display: inline-block;
     text-align: left;
     width: 48%;
-    vertial-align: middle;
+    vertical-align: middle;
 }
 
 th, td {
@@ -58,8 +58,4 @@ input[type="radio" i] {
 td {
     display: table-cell;
     vertical-align: inherit;
-}
-table {
-    border-collapse: separate;
-    border-spacing: 2px;
 }
